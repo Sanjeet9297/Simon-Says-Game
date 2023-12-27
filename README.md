@@ -1,0 +1,2 @@
+# Simon-Says-Game
+Welcome to the classic Simon Says game! This repository contains an interactive implementation of the popular memory game where you test your memory skills by following a pattern of lights and sounds.
